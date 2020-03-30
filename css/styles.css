@@ -1,0 +1,14 @@
+.bt,
+.bt2 {
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: blueviolet;
+}
+
+#btn {
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100px;
+    background-color: blueviolet;
+}
